@@ -1,4 +1,5 @@
 #summary Studies Phase of the project before game design.
+#labels Featured
 
 = Introduction =
 
