@@ -1,6 +1,6 @@
 ﻿/* 
  * To make a bigger set of cards, 
- * [1] redefine faces2.ai to contain more layers in Illustor, 
+ * [1] redefine faces2.ai to contain more layers in Illustrator, 
  * [2] re-import faces2.ai as CardFlip the movieclip symbol
  * [3] check boardWidth & boardHeight so that:
  *     their product is 
