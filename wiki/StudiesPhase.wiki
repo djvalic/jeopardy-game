@@ -9,6 +9,6 @@ Since i'm still learning the basics of flash cs3 and as3, the following are just
 
 Cards  
   * A matching game to learn about basic code structure in flash/as3
-  * the demo can be found at in trunk of the code
+  * the *demo* can be found at in [http://jeopardy-game.googlecode.com/svn/trunk/studies/matching/MatchingGameX.swf a subfolder of the trunk of the code]
   * get the code at source page
   * or just browse the code at here
