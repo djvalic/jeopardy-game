@@ -1,0 +1,14 @@
+# Studies Phase of the project before game design
+
+= Introduction =
+
+Since i'm still learning the basics of flash cs3 and as3, the following are just experiments to learn about the relevant aspects of this technology
+
+
+= Details =
+
+Cards  
+  * A matching game to learn about basic code structure in flash/as3
+  * the demo can be found at in trunk of the code
+  * get the code at source page
+  * or just browse the code at here
