@@ -1,4 +1,4 @@
-#Studies Phase of the project before game design
+#summary Studies Phase of the project before game design.
 
 = Introduction =
 
