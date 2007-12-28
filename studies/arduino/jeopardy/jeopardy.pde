@@ -1,5 +1,10 @@
 /*
- * Switch test program
+ * Jeopardy controller interface thats 
+ * finds which user has buzzed in first
+ * 
+ * Usage: Interface waits for a signal from serial to start polling
+ * Sends a serial command back indicating which control buzzed in first
+ * Message is sent back in ASCII eg ("1\n" if Control 1 buzzed in first)
  */
 
 int player1 = 13;              // Switch connected to digital pin 2
