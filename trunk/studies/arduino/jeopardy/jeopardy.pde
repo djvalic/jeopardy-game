@@ -50,7 +50,7 @@ void loop()                     // run over and over again
     player3Read = digitalRead(player3);
     player4Read = digitalRead(player4);
     player5Read = digitalRead(player5);
-    delay(100);      
+    delay(10);      
   }
   
   if (player1Read != 0) {
